@@ -1,10 +1,11 @@
-- 👋, I'm @Brenohac;
-- 👀 I'm interested in new learning challenges and programming experiences;
-- 🌱 I'm learning Python;
-- 💞️ I'm wanting; collaborate with new projects;
-- 📫 can communicate through my Github.
+# Hi!
+<a href="https://www.linkedin.com/in/breno-carvalho-142a38140/" rel="nofollow"><img src="https://camo.githubusercontent.com/8206e312fa116edcccf243e4ae57bc74b11475b398d8f104a9b93ad45f9db8a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3636333363633f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6665726e616e64612d6b69707065722d3539353861363161392f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/" style="max-width: 100%;"></a>
+# My name is Breno Carvalho
 
-<!---
-Brenohac/Brenohac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+(Python | HTML | CSS | Typescript | Suport | SQL | .NET | C#)
+
+- System Analyst;
+- Programming enthusiast;
+- Learning Python;
+- Wanting; collaborate with new projects;
+- Can communicate through my Github.
