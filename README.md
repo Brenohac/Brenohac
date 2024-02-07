@@ -7,6 +7,7 @@
 (Python | HTML | CSS | Typescript | Suport | SQL | Linux)
 
 - System Analyst;
+- Information Technology Technician - UFNT
 - Programming enthusiast;
 - Learning Python;
 - Wanting; collaborate with new projects;
